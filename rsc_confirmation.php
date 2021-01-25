@@ -1,0 +1,1 @@
+<?php require(__DIR__."/controller/confirmation_controller.php");

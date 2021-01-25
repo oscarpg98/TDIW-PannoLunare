@@ -1,0 +1,1 @@
+<?php require_once(__DIR__ . "/controller/delete_item_trolley_controller.php");

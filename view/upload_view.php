@@ -1,0 +1,1 @@
+<?php echo "La imagen se ha subido correctamente!";

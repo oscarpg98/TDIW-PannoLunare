@@ -1,0 +1,1 @@
+<div id="reg-success"> Enhorabuena <?php echo $username; ?>, te has registrado correctamente! </div>
